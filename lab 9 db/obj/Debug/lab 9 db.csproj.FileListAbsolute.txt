@@ -1,0 +1,74 @@
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe.config
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\bin\Debug\lab 9 db.pdb
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.AssemblyReference.cache
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.SuggestedBindingRedirects.cache
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.Properties.Resources.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.GenerateResource.cache
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.CoreCompileInputs.cache
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.exe
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab 9 db.pdb
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.MainForm.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessInfForm.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessionHistoryForm.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StipForm.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StudentsForm.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.ADD_ROW_STUDENTS_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STUDENTS_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESSION_HISTORY_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_STIP_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESS_INF_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_SESSION_HISTORY_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddAndUpdateRowForm.UPDATE_ROW_SESS_INF_FORM.resources
+C:\Users\artdesert\source\repos\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STIP_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.AssemblyReference.cache
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.SuggestedBindingRedirects.cache
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESSION_HISTORY_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESS_INF_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_STIP_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.ADD_ROW_STUDENTS_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_SESSION_HISTORY_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddAndUpdateRowForm.UPDATE_ROW_SESS_INF_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STIP_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STUDENTS_FORM.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.MainForm.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.Properties.Resources.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessInfForm.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessionHistoryForm.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StipForm.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StudentsForm.resources
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.GenerateResource.cache
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.CoreCompileInputs.cache
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.exe
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\obj\Debug\lab 9 db.pdb
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe.config
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe
+C:\Users\artdesert\Desktop\lab 9 db\lab 9 db\bin\Debug\lab 9 db.pdb
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe.config
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\lab 9 db.exe
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\lab 9 db.pdb
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.AssemblyReference.cache
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.SuggestedBindingRedirects.cache
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESSION_HISTORY_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_SESS_INF_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.ADD_ROW_STIP_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.ADD_ROW_STUDENTS_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_SESSION_HISTORY_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddAndUpdateRowForm.UPDATE_ROW_SESS_INF_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STIP_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.AddRowForm.UPDATE_ROW_STUDENTS_FORM.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.MainForm.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.Properties.Resources.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessInfForm.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.SessionHistoryForm.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StipForm.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab_9_db.StudentsForm.resources
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.GenerateResource.cache
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.CoreCompileInputs.cache
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.exe
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.pdb
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.ResolveComReference.cache
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\BouncyCastle.Crypto.dll
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\GemBox.Spreadsheet.dll
+D:\My\Projects\lab 9 db\lab 9 db\bin\Debug\GemBox.Spreadsheet.xml
+D:\My\Projects\lab 9 db\lab 9 db\obj\Debug\lab 9 db.csproj.CopyComplete
